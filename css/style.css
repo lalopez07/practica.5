@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f3f7;
+    font-family: 'poppins ' Arial, sans-serif;
+    font-size: 20px;
+}
+td{
+    vertical-align: text-top;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+div{
+    color: #1B8EF2;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid #18adb3;
+    background-color: #ffffff;
+    border: solid 2px #390366;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #c40000;
+}
